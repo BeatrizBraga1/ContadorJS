@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(138, 187, 138);
+}
+h1{
+    color:rgb(97, 11, 177);
+    font-size: 60px;
+
+}
+
+button{
+    background-color: rgb(188, 152, 221);
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+}
+
+div{
+    text-align: center;
+}
+
+.texto{
+    font-size: 20px;
+}
